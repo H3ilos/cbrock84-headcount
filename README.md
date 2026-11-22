@@ -1,5 +1,9 @@
 <h1 align="center">headcount</h1>
 
+# WARNING! THIS REPO WAS CLONED AND ANY FEATURES POINTING TO THE ORIGINAL REPO WONT WORK. (tbh idk if the bottom line will work but go ahead and try) 
+# /plugin marketplace add h3ilos/cbrock84-headcount
+
+
 <p align="center"><b>Add a department, not a prompt.</b></p>
 
 <p align="center">
